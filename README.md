@@ -72,6 +72,38 @@ Il progetto include diversi accorgimenti per migliorare l'accessibilità:
 * organizzazione chiara dei contenuti
 * attenzione alla leggibilità e alla navigazione da tastiera
 
+## Valutazione dell'accessibilità (WAVE)
+
+L'accessibilità del sito è stata verificata anche con lo strumento **WAVE Web Accessibility Evaluation Tool**.
+
+Risultati principali:
+
+* **Errors:** 0
+* **Contrast Errors:** 1
+* **Alerts:** 5
+* **ARIA elements:** 18
+* **Struttura semantica rilevata:** 17 elementi
+
+**AIM Score:** 9.6 / 10
+
+Il risultato conferma che il sito presenta una buona struttura semantica e un alto livello di accessibilità per utenti che utilizzano tecnologie assistive come screen reader.
+
+
+## Valutazione Lighthouse
+
+Il sito è stato analizzato con **Google Lighthouse** per verificare accessibilità e qualità del codice.
+
+Risultati principali:
+
+* **Performance:** 65
+* **Accessibility:** 98
+* **Best Practices:** 92
+* **SEO:** 100
+
+Il punteggio di accessibilità elevato conferma che il sito è progettato per essere utilizzabile anche con **tecnologie assistive**, come screen reader.
+
+Le performance risultano leggermente inferiori a causa di alcune risorse generate automaticamente da Mobirise e dell'integrazione del gioco interattivo.
+
 
 ---
 
