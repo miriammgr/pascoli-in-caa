@@ -109,6 +109,6 @@ Le performance risultano leggermente inferiori a causa di alcune risorse generat
 
 ## Autrice
 
-Miriam Grande
-Studentessa di Informatica Umanistica
-Università di Pisa
+Miriam Grande,
+Studentessa di Informatica Umanistica,
+Università di Pisa.
