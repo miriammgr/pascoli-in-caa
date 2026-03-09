@@ -165,24 +165,7 @@ Questo tipo di simulazione è più severo e può influenzare il caricamento dell
 
 ---
 
-# Struttura del progetto
-Pascoli-CAA
-│
-├── index.html
-├── mia-sera.html
-├── cavalla-storna.html
-├── gelsomino-notturno.html
-│
-├── assets/
-│ ├── css
-│ ├── js
-│ ├── images
-│ └── bootstrap
-│
-└── README.md
 
-
----
 
 # Autrice
 
